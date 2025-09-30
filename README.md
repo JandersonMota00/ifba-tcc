@@ -1,4 +1,4 @@
-# Artigo: Trabalho de Conclusão de Curso – TCC
+# Artigo de Pesquisa: Trabalho de Conclusão de Curso – TCC
 
 - **Instituição:** Instituto Federal da Bahia (IFBA)
 - **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
